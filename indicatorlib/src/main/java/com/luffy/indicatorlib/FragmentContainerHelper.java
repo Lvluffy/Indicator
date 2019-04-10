@@ -8,18 +8,16 @@ import android.os.Build;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.Interpolator;
 
-
 import com.luffy.indicatorlib.buildins.commonnavigator.model.PositionData;
 
 import java.util.ArrayList;
 import java.util.List;
 
-
 /**
- * 使得MagicIndicator在FragmentContainer中使用
- * Created by hackware on 2016/9/4.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 使得MagicIndicator在FragmentContainer中使用
  */
-
 @TargetApi(Build.VERSION_CODES.HONEYCOMB)
 public class FragmentContainerHelper {
     private List<MagicIndicator> mMagicIndicators = new ArrayList<MagicIndicator>();

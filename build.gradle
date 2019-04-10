@@ -9,9 +9,6 @@ buildscript {
         classpath 'com.android.tools.build:gradle:2.3.1'
         /**github*/
         classpath 'com.github.dcendents:android-maven-gradle-plugin:1.4.1'
-        /**butterknife*/
-        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
-        classpath 'com.jakewharton:butterknife-gradle-plugin:8.8.1'
     }
 }
 
@@ -39,7 +36,7 @@ ext {
     //目标版本
     targetSdkVersion = 27
     //应用程序版本号
-    versionCode = 100
+    versionCode = 1
     //应用程序版本名称
     versionName = "1.0.0"
     /**Dependencies（依赖关系）*/

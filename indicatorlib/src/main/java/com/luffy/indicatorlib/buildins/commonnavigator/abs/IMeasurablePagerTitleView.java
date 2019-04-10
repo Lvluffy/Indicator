@@ -1,9 +1,9 @@
 package com.luffy.indicatorlib.buildins.commonnavigator.abs;
 
 /**
- * 可测量内容区域的指示器标题
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 可测量内容区域的指示器标题
  */
 public interface IMeasurablePagerTitleView extends IPagerTitleView {
     int getContentLeft();

@@ -11,9 +11,10 @@ import android.widget.TextView;
 import com.luffy.indicator.R;
 
 /**
- * Created by hackware on 2016/9/13.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
  */
-
 public class TestFragment extends Fragment {
     public static final String EXTRA_TEXT = "extra_text";
 

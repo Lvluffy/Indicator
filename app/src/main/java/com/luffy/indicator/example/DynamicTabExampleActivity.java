@@ -22,6 +22,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
+ */
 public class DynamicTabExampleActivity extends AppCompatActivity {
     private static final String[] CHANNELS = new String[]{"CUPCAKE", "DONUT", "ECLAIR", "GINGERBREAD", "HONEYCOMB", "ICE_CREAM_SANDWICH", "JELLY_BEAN", "KITKAT", "LOLLIPOP", "M", "NOUGAT"};
     private List<String> mDataList = new ArrayList<String>(Arrays.asList(CHANNELS));

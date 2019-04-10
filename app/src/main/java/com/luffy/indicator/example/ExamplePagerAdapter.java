@@ -10,9 +10,10 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by hackware on 2016/9/10.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
  */
-
 public class ExamplePagerAdapter extends PagerAdapter {
     private List<String> mDataList;
 

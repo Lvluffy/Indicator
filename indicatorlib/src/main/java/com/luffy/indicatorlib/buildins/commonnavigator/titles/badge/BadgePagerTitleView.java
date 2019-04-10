@@ -8,9 +8,9 @@ import com.luffy.indicatorlib.buildins.commonnavigator.abs.IMeasurablePagerTitle
 import com.luffy.indicatorlib.buildins.commonnavigator.abs.IPagerTitleView;
 
 /**
- * 支持显示角标的title，角标布局可自定义
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/7/18.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 支持显示角标的title，角标布局可自定义
  */
 public class BadgePagerTitleView extends FrameLayout implements IMeasurablePagerTitleView {
     private IPagerTitleView mInnerPagerTitleView;

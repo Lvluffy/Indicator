@@ -15,10 +15,10 @@ import com.luffy.indicatorlib.buildins.commonnavigator.model.PositionData;
 import java.util.List;
 
 /**
- * 通用的indicator，支持外面设置Drawable
- * Created by hackware on 2016/11/14.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 通用的indicator，支持外面设置Drawable
  */
-
 public class CommonPagerIndicator extends View implements IPagerIndicator {
     public static final int MODE_MATCH_EDGE = 0;   // drawable宽度 == title宽度 - 2 * mXOffset
     public static final int MODE_WRAP_CONTENT = 1;    // drawable宽度 == title内容宽度 - 2 * mXOffset

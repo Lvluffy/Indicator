@@ -7,11 +7,10 @@ import android.widget.FrameLayout;
 
 import com.luffy.indicatorlib.abs.IPagerNavigator;
 
-
 /**
- * 整个框架的入口，核心
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 整个框架的入口，核心
  */
 public class MagicIndicator extends FrameLayout {
     private IPagerNavigator mNavigator;

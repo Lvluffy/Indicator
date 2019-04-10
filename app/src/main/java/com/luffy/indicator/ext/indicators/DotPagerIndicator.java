@@ -13,8 +13,9 @@ import com.luffy.indicatorlib.buildins.commonnavigator.model.PositionData;
 import java.util.List;
 
 /**
- * 非手指跟随的小圆点指示器
- * Created by hackware on 2016/7/13.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 非手指跟随的小圆点指示器
  */
 public class DotPagerIndicator extends View implements IPagerIndicator {
     private List<PositionData> mDataList;

@@ -1,10 +1,10 @@
 package com.luffy.indicatorlib;
 
 /**
- * 自定义滚动状态，消除对ViewPager的依赖
- * Created by hackware on 2016/8/27.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 自定义滚动状态，消除对ViewPager的依赖
  */
-
 public interface ScrollState {
     int SCROLL_STATE_IDLE = 0;
     int SCROLL_STATE_DRAGGING = 1;

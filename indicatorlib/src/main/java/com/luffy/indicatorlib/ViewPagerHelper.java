@@ -3,10 +3,10 @@ package com.luffy.indicatorlib;
 import android.support.v4.view.ViewPager;
 
 /**
- * 简化和ViewPager绑定
- * Created by hackware on 2016/8/17.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 简化和ViewPager绑定
  */
-
 public class ViewPagerHelper {
     public static void bind(final MagicIndicator magicIndicator, ViewPager viewPager) {
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {

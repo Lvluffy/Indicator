@@ -3,8 +3,9 @@ package com.luffy.indicatorlib.buildins;
 import android.content.Context;
 
 /**
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc ui转换工具
  */
 public final class UIUtil {
 

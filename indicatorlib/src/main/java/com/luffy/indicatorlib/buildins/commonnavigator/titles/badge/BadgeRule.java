@@ -1,8 +1,9 @@
 package com.luffy.indicatorlib.buildins.commonnavigator.titles.badge;
 
 /**
- * 角标的定位规则
- * Created by hackware on 2016/7/19.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 角标的定位规则
  */
 public class BadgeRule {
     private BadgeAnchor mAnchor;

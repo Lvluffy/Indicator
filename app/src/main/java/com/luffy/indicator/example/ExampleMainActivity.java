@@ -7,7 +7,11 @@ import android.view.View;
 
 import com.luffy.indicator.R;
 
-
+/**
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
+ */
 public class ExampleMainActivity extends AppCompatActivity {
 
     @Override

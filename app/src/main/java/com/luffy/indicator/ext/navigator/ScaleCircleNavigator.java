@@ -12,7 +12,6 @@ import android.view.ViewConfiguration;
 import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 
-
 import com.luffy.indicatorlib.NavigatorHelper;
 import com.luffy.indicatorlib.abs.IPagerNavigator;
 import com.luffy.indicatorlib.buildins.ArgbEvaluatorHolder;
@@ -46,10 +45,10 @@ import java.util.List;
 //               佛祖保佑         永无BUG
 
 /**
- * 类似CircleIndicator的效果
- * Created by hackware on 2016/9/3.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 类似CircleIndicator的效果
  */
-
 public class ScaleCircleNavigator extends View implements IPagerNavigator, NavigatorHelper.OnNavigatorScrollListener {
     private int mMinRadius;
     private int mMaxRadius;

@@ -23,6 +23,11 @@ import com.luffy.indicatorlib.buildins.commonnavigator.titles.ClipPagerTitleView
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
+ */
 public class FragmentContainerExampleActivity extends AppCompatActivity {
     private static final String[] CHANNELS = new String[]{"KITKAT", "NOUGAT", "DONUT"};
     private List<Fragment> mFragments = new ArrayList<Fragment>();

@@ -30,6 +30,11 @@ import com.luffy.indicatorlib.buildins.commonnavigator.titles.SimplePagerTitleVi
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
+ */
 public class FixedTabExampleActivity extends AppCompatActivity {
     private static final String[] CHANNELS = new String[]{"KITKAT", "NOUGAT", "DONUT"};
     private List<String> mDataList = Arrays.asList(CHANNELS);

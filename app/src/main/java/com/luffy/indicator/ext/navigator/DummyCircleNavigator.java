@@ -13,9 +13,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by hackware on 2016/7/24.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
  */
-
 public class DummyCircleNavigator extends View implements IPagerNavigator {
     private int mRadius;
     private int mCircleColor;

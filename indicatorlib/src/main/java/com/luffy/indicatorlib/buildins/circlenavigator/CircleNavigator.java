@@ -10,7 +10,6 @@ import android.view.ViewConfiguration;
 import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 
-
 import com.luffy.indicatorlib.abs.IPagerNavigator;
 import com.luffy.indicatorlib.buildins.UIUtil;
 
@@ -18,9 +17,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 圆圈式的指示器
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc 圆圈式的指示器
  */
 public class CircleNavigator extends View implements IPagerNavigator {
     private int mRadius;

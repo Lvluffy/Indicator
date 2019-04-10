@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 
-
 import com.luffy.indicator.R;
 import com.luffy.indicator.ext.navigator.ScaleCircleNavigator;
 import com.luffy.indicatorlib.MagicIndicator;
@@ -15,6 +14,11 @@ import com.luffy.indicatorlib.buildins.circlenavigator.CircleNavigator;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
+ */
 public class CustomNavigatorExampleActivity extends AppCompatActivity {
     private static final String[] CHANNELS = new String[]{"CUPCAKE", "DONUT", "ECLAIR", "GINGERBREAD", "HONEYCOMB", "ICE_CREAM_SANDWICH", "JELLY_BEAN", "KITKAT", "LOLLIPOP", "M", "NOUGAT"};
     private List<String> mDataList = Arrays.asList(CHANNELS);

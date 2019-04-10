@@ -5,9 +5,10 @@ import android.content.Context;
 import com.luffy.indicatorlib.buildins.commonnavigator.titles.SimplePagerTitleView;
 
 /**
- * Created by hackware on 2016/7/24.
+ * Created by lvlufei on 2019/4/10
+ *
+ * @desc
  */
-
 public class ColorFlipPagerTitleView extends SimplePagerTitleView {
     private float mChangePercent = 0.5f;
 
