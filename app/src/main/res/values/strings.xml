@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">magicindicatordemo</string>
+    <string name="app_name">指示器</string>
     <string name="scrollable_tab">scrollable tab</string>
     <string name="fixed_tab">fixed tab</string>
     <string name="dynamic_tab">dynamic tab</string>
