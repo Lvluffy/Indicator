@@ -25,4 +25,4 @@ dependencies {
 }
 
 ## 录屏
-![ohval-hppf0](https://user-images.githubusercontent.com/34730376/56332119-a5d08780-61c1-11e9-8415-9f6227433596.gif)
+![o7mkw-7pnpa](https://user-images.githubusercontent.com/34730376/56338540-03260200-61dd-11e9-84ad-02de9f4ccd1d.gif)
